@@ -11,12 +11,16 @@ You can also include images in this folder and reference them in the markdown. E
 
 This project is just a simple test for this Wokwi workflow, so it does not include any very meaningful functionality!
 
-Segment A should blink with a frequency of $f_{blink} = \frac{f_{clk}}{2^14} = \frac{10 kHz}{2^14} = 0.61 Hz $
+The decimal point should blink with a frequency of $f_{blink} = \frac{f_{clk}}{2^14} = \frac{10 kHz}{2^14} = 0.61 Hz $
+
+Inputs 0 to 6 are routed directly so segments A to G.
 
 ## How to test
 
-No inputs need to applied other than the clock of 10kHz.
+No inputs need to be applied other than the clock of 10kHz for the decimal point to blink.
+
+Toggling inputs 0 to 6 should toggle segment A to G respectively.
 
 ## External hardware
 
-None, only the 7 segment display
+None, only the 7 segment display and DIP switches
