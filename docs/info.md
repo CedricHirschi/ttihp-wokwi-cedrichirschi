@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project is just a simple test for this Wokwi workflow, so it does not include any very meaningful functionality!
+
+Segment A should blink with a frequency of $f_{blink} = \frac{f_{clk}}{2^14} = \frac{10 kHz}{2^14} = 0.61 Hz $
 
 ## How to test
 
-Explain how to use your project
+No inputs need to applied other than the clock of 10kHz.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None, only the 7 segment display
