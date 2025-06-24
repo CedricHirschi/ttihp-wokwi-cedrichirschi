@@ -11,7 +11,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 This project is just a simple test for this Wokwi workflow, so it does not include any very meaningful functionality!
 
-The decimal point should blink with a frequency of $f_{blink} = \frac{f_{clk}}{2^14} = \frac{10 kHz}{2^14} = 0.61 Hz $
+The decimal point should blink with a frequency of $f_{blink} = \frac{f_{clk}}{2^14} = \frac{10 kHz}{2^14} = 0.61 Hz$
 
 Inputs 0 to 6 are routed directly so segments A to G.
 
